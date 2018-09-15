@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
-title: enPiT2018 Github pagesについてやさしく解説します
+title: enPiT2018 自己紹介ページ
+description: 私の自己紹介をします
 
 github:
   is_project_page: false
